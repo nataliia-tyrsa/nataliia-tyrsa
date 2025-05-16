@@ -22,10 +22,19 @@ Git · GitHub · Linux · VS Code · Postman · ESLint · Prettier · Figma · G
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Social Media App (WIP)](https://github.com/nataliia-tyrsa/social-media-app-ts) | TypeScript-based social app with post management, profiles, and authentication | React · Redux · TS · PostgreSQL |
-| [PetShop Platform](https://github.com/nataliia-tyrsa/petshop-react-express) | Fullstack e-commerce app for filtering, sorting, and ordering pet products | React · Express · PostgreSQL |
+
+
+### [PetShop – E-Commerce Platform](https://github.com/nataliia-tyrsa/petshop-react-express)  
+Full-featured online store for pet products using React, Redux Toolkit, Express, and PostgreSQL.  
+Supports filtering, sorting, shopping cart, order submission and dynamic routing.
+
+### [Social Media App (TypeScript)](https://github.com/nataliia-tyrsa/social-media-app-ts)  
+Fullstack MERN-style social platform built with TypeScript, React, Redux, Express, and MongoDB.  
+Includes real-time updates, authentication, responsive feed, and modern UI.
+
+### [Event Explorer](https://github.com/nataliia-tyrsa/event-platform)  
+Responsive event filtering platform built with HTML, SCSS and vanilla JavaScript.  
+Simple and lightweight UI for category/date-based event discovery.
 
 ---
 
