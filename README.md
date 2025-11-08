@@ -1,54 +1,71 @@
-# Nataliia Tyrsa
+Nataliia Tyrsa
 
 Frontend Developer
 
-I'm building responsive, accessible web apps with clean architecture, reusability in mind, and well-structured logic.  
-Specialized in JavaScript / Node.js / TypeScript + React + modern UI. Focused on creating reliable client experiences with well-integrated backend solutions.
+I’m building responsive, user-friendly web applications with clean architecture and reusable components.
+Specialized in JavaScript / TypeScript / React / Node.js, with a focus on creating smooth and consistent client experiences connected to reliable backend solutions.
 
----
+⸻
 
-## Tech Stack
+Tech Stack
 
-**Frontend:**  
-React · Redux Toolkit · TypeScript · JavaScript · Vite · SCSS · HTML5 · CSS3 · Responsive Layouts
+Frontend:
+React · Redux Toolkit · TypeScript · JavaScript · SCSS · HTML5 · CSS3 · Responsive Layouts · i18n · Jotai · Storybook
 
-**Backend & API:**  
-Node.js · Express · PostgreSQL · MongoDB · Sequelize · REST · CORS · dotenv · nodemon
+Backend & API:
+Node.js · Express · MongoDB · PostgreSQL · Prisma · REST · Swagger · Sequelize · CORS · dotenv
 
-**Tools & Practices:**  
-Git · GitHub · Linux · VS Code · Postman · ESLint · Prettier · Figma · GitHub Actions
+Tools & Practices:
+Git · GitHub · Zoho · VS Code · Postman · ESLint · Prettier · Chrome DevTools · Figma · Jira · Trello · GitHub Actions · Husky · Linux
 
----
+Testing & QA Tools:
+Jest · React Testing Library · Postman · Swagger · DevTools
 
-## Featured Projects
+Methodologies:
+Agile · Scrum · Code Review · Version Control (Git Flow)
 
+⸻
 
+Featured Projects
 
-### [PetShop – E-Commerce Platform](https://github.com/nataliia-tyrsa/petshop-react-express)  
-Full-featured online store for pet products using React, Redux Toolkit, Express, and PostgreSQL.  
-Supports filtering, sorting, shopping cart, order submission and dynamic routing.
+🐾 PetShop – Fullstack E-Commerce Platform
+Role: Fullstack Developer
+GitHub: github.com/nataliia-tyrsa/petshop-react-express￼
+	•	Built a full-featured online pet shop using React, Redux Toolkit, Express, and PostgreSQL.
+	•	Implemented filtering, sorting, shopping cart, and order management.
+	•	Designed reusable UI components and integrated REST API endpoints.
 
-### [Social Media App (TypeScript)](https://github.com/nataliia-tyrsa/social-media-app-ts)  
-Fullstack MERN-style social platform built with TypeScript, React, Redux, Express, and MongoDB.  
-Includes real-time updates, authentication, responsive feed, and modern UI.
+⸻
 
-### [Event Explorer](https://github.com/nataliia-tyrsa/event-platform)  
-Responsive event filtering platform built with HTML, SCSS and vanilla JavaScript.  
-Simple and lightweight UI for category/date-based event discovery.
+📸 Tuscany Photo Tours – Travel Platform
+Role: Frontend Developer
+GitHub: github.com/tritonJS826/phototours￼
+	•	Developing a responsive web app for booking and exploring travel tours in Italy.
+	•	Creating dynamic UI components, managing state with React and TypeScript.
+	•	Working in a small international team, collaborating through GitHub and Jira.
 
----
+⸻
 
-## Code Quality
+🧠 Brain100 – Cognitive Training App
+Role: Frontend Developer
+GitHub: github.com/tritonJS826/brain100￼
+	•	Developing an interactive app for mental training and progress tracking.
+	•	Building the UI with React, TypeScript, and REST API integration.
+	•	Ensuring clean code structure and accessibility.
 
-I focus on:
-- modular, scalable folder structures
-- separation of concerns between logic, layout, and data
-- consistent linting, naming, and refactoring
-- accessible semantic HTML and keyboard-friendly UIs
+⸻
 
----
+Code Quality Focus
 
-## Contact
+I value:
+	•	Modular and scalable architecture
+	•	Clean code with clear logic separation
+	•	Attention to UX, accessibility, and performance
+	•	Consistent use of version control and best practices
 
-[LinkedIn](https://www.linkedin.com/in/nataliia-tyrsa/)
-[Email](mailto:nataliiatуrsa@gmail.com)
+⸻
+
+Contact
+
+📧 Email: nataliiatyrsa@gmail.com
+💻 GitHub: github.com/nataliia-tyrsa￼
