@@ -33,11 +33,11 @@ Role: Fullstack Developer
 
 GitHub: github.com/nataliia-tyrsa/petshop-react-express
 ￼
-	•	Built a full-featured online pet shop using React, Redux Toolkit, Express, and PostgreSQL.
+•	Built a full-featured online pet shop using React, Redux Toolkit, Express, and PostgreSQL.
 	
-	•	Implemented filtering, sorting, shopping cart, and order management.
+•	Implemented filtering, sorting, shopping cart, and order management.
 	
-	•	Designed reusable UI components and integrated REST API endpoints.
+•	Designed reusable UI components and integrated REST API endpoints.
 
 ⸻
 
@@ -46,11 +46,11 @@ Role: Frontend Developer
 
 GitHub: github.com/tritonJS826/phototours
 ￼
-	•	Developing a responsive web app for booking and exploring travel tours in Italy.
+•	Developing a responsive web app for booking and exploring travel tours in Italy.
 	
-	•	Creating dynamic UI components, managing state with React and TypeScript.
+•	Creating dynamic UI components, managing state with React and TypeScript.
 	
-	•	Working in a small international team, collaborating through GitHub and Jira.
+•	Working in a small international team, collaborating through GitHub and Jira.
 
 ⸻
 
@@ -59,11 +59,11 @@ Role: Frontend Developer
 
 GitHub: github.com/tritonJS826/brain100
 ￼
-	•	Developing an interactive app for mental training and progress tracking.
+•	Developing an interactive app for mental training and progress tracking.
 	
-	•	Building the UI with React, TypeScript, and REST API integration.
+•	Building the UI with React, TypeScript, and REST API integration.
 	
-	•	Ensuring clean code structure and accessibility.
+•	Ensuring clean code structure and accessibility.
 
 ⸻
 
