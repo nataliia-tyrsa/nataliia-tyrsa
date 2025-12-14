@@ -30,6 +30,7 @@ Featured Projects
 
 🐾 PetShop – Fullstack E-Commerce Platform
 Role: Fullstack Developer
+
 GitHub: github.com/nataliia-tyrsa/petshop-react-express￼
 	•	Built a full-featured online pet shop using React, Redux Toolkit, Express, and PostgreSQL.
 	•	Implemented filtering, sorting, shopping cart, and order management.
@@ -39,6 +40,7 @@ GitHub: github.com/nataliia-tyrsa/petshop-react-express￼
 
 📸 Tuscany Photo Tours – Travel Platform
 Role: Frontend Developer
+
 GitHub: github.com/tritonJS826/phototours￼
 	•	Developing a responsive web app for booking and exploring travel tours in Italy.
 	•	Creating dynamic UI components, managing state with React and TypeScript.
@@ -48,6 +50,7 @@ GitHub: github.com/tritonJS826/phototours￼
 
 🧠 Brain100 – Cognitive Training App
 Role: Frontend Developer
+
 GitHub: github.com/tritonJS826/brain100￼
 	•	Developing an interactive app for mental training and progress tracking.
 	•	Building the UI with React, TypeScript, and REST API integration.
